@@ -10,14 +10,12 @@ My bubble here consists of people running a stack of ownCloud/Nextcloud with
 some collaborative software like OnlyOffice/Collabora at state or national
 scale.
 
-### Blog
-
-I run [a blog](https://deaddy.net/).
+### Kubernetes intro series
 
 I have a small series on [Kubernetes](https://deaddy.net/tag/kubernetes.html),
-which is a bit more high level than most introductions and gives you an
-overview over what kubernetes itself does and the components you might need to
-integrate into your cluster to get it production grade.
+on my blog, which is a bit more high level than most introductions and gives
+you an overview over what kubernetes itself does and the components you might
+need to integrate into your cluster to get it production grade.
 
 - [Introduction to kubernetes pt. 1](https://deaddy.net/introduction-to-kubernetes-pt-1.html)
 - [Introduction to kubernetes pt. 2: Ingress networking](https://deaddy.net/introduction-to-kubernetes-pt-2-ingress-networking.html)
